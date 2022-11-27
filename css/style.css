@@ -248,16 +248,22 @@ header {
     display: none;
 }
 
+footer {
+    padding-top: 50px;
+    background-color: black;
+}
+
 .navbottom {
+    padding-top: 20px;
     background-color: black;
     display: flex;
     justify-content: center;
 }
 
 #footerh5 {
-    margin-left: 255px;
+    margin-left: 360px;
     background-color: black;
-    color: #fff;
+    color: #BFB4B2;
 }
 
 .list1 {
@@ -266,10 +272,14 @@ header {
 
 .list1ul {
     list-style-type: none;
-    color: #fff;
+    color: #BFB4B2;
     font-size: 10px;
 }
 
 li {
     margin-bottom: 10px;
+}
+
+#NetflixKenya {
+    padding-top: 15px;
 }
