@@ -248,3 +248,28 @@ header {
     display: none;
 }
 
+.navbottom {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+#footerh5 {
+    margin-left: 255px;
+    background-color: black;
+    color: #fff;
+}
+
+.list1 {
+    margin-right: 40px;
+}
+
+.list1ul {
+    list-style-type: none;
+    color: #fff;
+    font-size: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
