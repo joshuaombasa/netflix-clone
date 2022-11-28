@@ -46,9 +46,13 @@ header {
     
 }
 
+#form {
+    margin-top: 50px;
+}
+
 #signUpButton {
     display: block;
-    width: 50px;
+    width: 80px;
     text-decoration: none;
     color: #fff;
     background-color: red;
@@ -90,12 +94,21 @@ header {
     padding: 10px 20px;
     margin-left: 0px;
     border: none;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    margin-left: 0px;
+    border-radius: 5px;
+
 }
 
 #getStartedInput {
     margin-right: 0;
     padding: 10px 20px;
     margin-left: 0px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+
 }
 
 .h1gen {
